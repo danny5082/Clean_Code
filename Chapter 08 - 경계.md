@@ -174,7 +174,7 @@ public class LogTest {
   - "송신기"팀은 인터페이스를 제공하지 않았다. 하지만 저자는 "송신기"팀을 기다리는 대신 "원하는" 기능을 정의하고 인터페이스로 만들었다. _[지정한 주파수를 이용해 이 스트림에서 들어오는 자료를 아날로그 신호로 전송하라]_
   - 이렇게 인터페이스를 정의함으로써 메인 로직을 더 깔끔하게 짤 수 있었고 목표를 명확하게 나타낼 수 있었다.(참조 1)
 
-![Figure 8-2](/images/figure 8-2.png)
+![Figure 8-2](./images/figure 8-2.png)
 
 ```java
 public interface Transimitter {
